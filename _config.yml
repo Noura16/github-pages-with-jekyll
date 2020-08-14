@@ -4,3 +4,5 @@ email: nouranz610@gmail.com
 description: > # A website that has tools that will help you to create books and stories 
   
 github_username: Noura16
+
+theme: jekyll-theme-minimal
